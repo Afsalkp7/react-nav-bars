@@ -14,7 +14,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto px-4 py-6">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <Link to="/" className="text-white font-bold text-xl">Logo</Link>
+            <Link to="/" className="text-white font-bold text-xl">Name</Link>
           </div>
           <div className="hidden md:block">
             <div className="flex space-x-4">
